@@ -33,3 +33,30 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# npm
+npm-debug.log*
+
+# Dependency directories
+pids
+logs
+results
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
